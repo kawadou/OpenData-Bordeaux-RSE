@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+folium
+streamlit-folium
+transformers
+torch
+torchvision
+torchaudio
+wordcloud
+plotly
+matplotlib
+openai
+beautifulsoup4
